@@ -11,8 +11,8 @@ E-ticaret sisteminde sisteme kayıt ve sisteme giriş için gerekli gereksinim v
 <li>Üyelik sonucu kullanıcıya doğrulama e-postası gönderilmelidir. (Simulasyon)
 <li>Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)
 <li>Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
-<p>Sistemde dış servis entegrasyonu yapıldı adapter patterni kullanıldı.</p>
   <br>
+<p>Sistemde dış servis entegrasyonu yapıldı adapter patterni kullanıldı.</p>
   <br>
 <li>Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)
 <li>Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.
